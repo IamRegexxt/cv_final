@@ -1,8 +1,7 @@
-dataset\
-.venv
-input
-classifier.pkl
-embedd.pkl
-yolo11n.pt
-my_model.pt
+dataset/cropped_faces
+input/
+.venv/
+*.pkl
+*.pt
+# Comment out this line if img.py is source code you want in repo
 img.py
