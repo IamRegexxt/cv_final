@@ -1,7 +1,5 @@
 
 dataset/
-!dataset/cropped_faces/
-!dataset/cropped_faces/**
 input/
 .venv/
 *.pkl
