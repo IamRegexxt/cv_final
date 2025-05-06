@@ -1,0 +1,8 @@
+dataset\
+.venv
+input
+classifier.pkl
+embedd.pkl
+yolo11n.pt
+my_model.pt
+img.py
